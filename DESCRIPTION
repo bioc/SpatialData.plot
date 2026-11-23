@@ -1,7 +1,7 @@
 Package: SpatialData.plot
 Title: SpatialData visualization
 Depends: R (>= 4.6), spatialdataR
-Version: 1.0.0
+Version: 1.1.0
 Description: Visualization suit for 'spatialdataR'. Current functionality 
     includes handling of multiscale 'images', visualizing 'labels', 'points', 
     and 'shapes'. For the latter, POINT, POLYGON, and MULTIPOLYGON geometries 
